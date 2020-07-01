@@ -1,1 +1,18 @@
-@import"./normalize.scss"
+@import"./normalize.scss";
+
+#login{
+    .el-form-item{
+        margin-bottom: 22px;
+        .iconfont{
+            font-size: 16px;
+            color: #6994DC;
+        }
+    }
+    .el-input__inner{
+        border: none;
+        border-bottom: 1px solid #DCDFE6;
+        border-radius: 0px;
+      }
+      
+      
+}

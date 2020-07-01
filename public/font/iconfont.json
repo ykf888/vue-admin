@@ -1,0 +1,30 @@
+{
+  "id": "1912402",
+  "name": "vue3.0",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4833062",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5967328",
+      "name": "验证码",
+      "font_class": "yanzhengma",
+      "unicode": "e8dc",
+      "unicode_decimal": 59612
+    },
+    {
+      "icon_id": "15296782",
+      "name": "密 码",
+      "font_class": "mima",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    }
+  ]
+}
